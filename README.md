@@ -10,8 +10,8 @@
 
 ### About Me
 
-🔭 &nbsp;I'm currently working on **building a SOC home lab (Active Directory + Sysmon + Microsoft Sentinel)**  
-🌱 &nbsp;I'm currently learning **CompTIA Security+, then Microsoft SC-200 and KQL**
+💻 &nbsp;I'm currently working on **building a SOC home lab (Active Directory + Sysmon + Microsoft Sentinel)**  
+📚 &nbsp;I'm currently learning **CompTIA Security+, then Microsoft SC-200 and KQL**
 
 ### Tech Stack
 
@@ -43,11 +43,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/destiny-jerez-b812b4230/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/desjerez">desjerez</a></i></p>
