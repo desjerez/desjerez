@@ -1,11 +1,11 @@
-Z<p align="center">
+<p align="center">
   <a href="https://github.com/desjerez">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=570&text=Hi%2C%20I'm%20Destiny" alt="Hi, I&#39;m Destiny" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=565&height=44&lines=M.S%20Cybersecurity%20%40%20Montclair%20State%20University" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=565&height=44&lines=M.S.%20Cybersecurity%20%40%20Montclair%20State%20University" alt="Typing headlines" />
 </p>
 
 ### About Me
